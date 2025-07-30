@@ -1,4 +1,4 @@
-![Trello Board Image](Group6-InClass06_BotBuster/trello.jpg.jpg)
+![Trello Board Image](Group6-InClass06_BotBuster/trello.jpg)
 
 
 Below is the Trello link:
